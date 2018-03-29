@@ -1,0 +1,1 @@
+"use strict";window,document,console.log("demo.js");
